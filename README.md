@@ -17,7 +17,7 @@ That history shapes how I build: open by default, documentation matters, systems
 - Host The Minhaaj Podcast — top 22 in AI (Graphext 2022), conversations with data leaders from Twitter, Google, Meta, Amazon.
 - Advisory council, Harvard Business Review. Research read 42k+ times on ResearchGate, top 30% in Personality Psychology.
 
-## Technical credibility engineers care about
+## Little Accomplishments
 
 - Certified trainer: RStudio, MAXQDA. Professional reviewer for O'Reilly, Wiley, Packt.
 - Translated NEO IPIP-300 personality inventory into Urdu — used by clinicians, researchers, think-tanks.
