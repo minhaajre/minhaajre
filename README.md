@@ -21,7 +21,7 @@ That history shapes how I build: open by default, documentation matters, systems
 
 - Certified trainer: RStudio, MAXQDA. Professional reviewer for O'Reilly, Wiley, Packt.
 - Translated NEO IPIP-300 personality inventory into Urdu — used by clinicians, researchers, think-tanks.
-- Background: MBA, undergrad Computational Physics, doctoral research in business psychology, Georgia State Research Data Services training.
+- Background: MBA, undergrad coursework Computational Physics, doctoral research in business psychology, Georgia State Research Data Services training.
 - Guest lectures: University of Wollongong Dubai, MBUZAI Abu Dhabi, universities globally.
 - Times Square feature (Topmate, May 2025) as elite AI / Data Science mentor. 34k+ LinkedIn followers, mentored thousands across hundreds of orgs.
 
