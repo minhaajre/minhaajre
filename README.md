@@ -49,10 +49,8 @@ That history shapes how I build: open by default, documentation matters, systems
 
 ---
 
-<details>
-<summary>GitHub stats</summary>
+## GitHub stats
 
-![Minhaaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhaajre&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minhaajre&layout=compact&hide_border=true)
-
-</details>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=minhaajre&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minhaajre&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minhaajre&theme=default)
