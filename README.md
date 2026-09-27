@@ -49,6 +49,7 @@ Full bio and books: [minhaaj.com/biography.html](https://www.minhaaj.com/biograp
 
 - Website: [minhaaj.com](https://www.minhaaj.com)
 - LinkedIn: [linkedin.com/in/minhaaj](https://www.linkedin.com/in/minhaaj/)
+- X: [@minhaajr](https://x.com/minhaajr)
 - Medium: [@minhaaj](https://medium.com/@minhaaj)
 - YouTube: [@minhaaj](https://www.youtube.com/@minhaaj)
 - ResearchGate: [Minhaaj-Rehman](https://www.researchgate.net/profile/Minhaaj-Rehman)
