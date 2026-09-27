@@ -36,14 +36,6 @@ That history shapes how I build: open by default, documentation matters, systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-## Selected work
-
-- [cciaf-report-engine](https://github.com/minhaajre/cciaf-report-engine) — report generation pipeline
-- [master-llm-instructions](https://github.com/minhaajre/master-llm-instructions) — agent operating system
-- [PsydaOfficialWebsite](https://github.com/minhaajre/PsydaOfficialWebsite) — company site
-- [MinhaajPersonalWebsite](https://github.com/minhaajre/MinhaajPersonalWebsite) — this site's source, static HTML + CSS
-
-Full bio and books: [minhaaj.com/biography.html](https://www.minhaaj.com/biography.html)
 
 ## Connect
 
@@ -53,7 +45,7 @@ Full bio and books: [minhaaj.com/biography.html](https://www.minhaaj.com/biograp
 - Medium: [@minhaaj](https://medium.com/@minhaaj)
 - YouTube: [@minhaaj](https://www.youtube.com/@minhaaj)
 - ResearchGate: [Minhaaj-Rehman](https://www.researchgate.net/profile/Minhaaj-Rehman)
-- Email: contact@psyda.org
+- Email: contact at psyda.org
 
 ---
 
